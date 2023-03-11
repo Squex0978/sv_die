@@ -5,5 +5,5 @@ lua54 'yes'
 author 'SV-Service'
 
 client_scripts {
-    'client/client.lua'
+    'client.lua'
 }
